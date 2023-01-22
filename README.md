@@ -13,4 +13,7 @@ Colab adaptations AUTOMATIC1111 Webui and Dreambooth, train your model using thi
 
 Dreambooth paper : https://dreambooth.github.io/
 
-SD implementation by @XavierXiao : https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
+SD implementation by @XavierXiao : https://github.com/XavierXiao/Dreambooth-Stable-Diffusion![00052](https://user-images.githubusercontent.com/78659588/213923308-7cd5d9f3-d636-4975-b35c-6135e399d75b.png)
+![04196-1024640442-a medium length portrait of a pratikbehera man as a Kingsman agent character from the Kingsman movie, posing,  neon lit bokeh, b](https://user-images.githubusercontent.com/78659588/213923315-d4a17c70-92a1-4a64-b482-832ef118f27d.png)
+![04180-1024640426-a medium length portrait of a pratikbehera man as a Kingsman agent character from the Kingsman movie, posing,  neon lit bokeh, b](https://user-images.githubusercontent.com/78659588/213923318-94ccd92c-e5b0-4402-98fd-229345b47935.png)
+
